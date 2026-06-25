@@ -1,6 +1,3 @@
-# 7brew-coffee-menu-guide
-Complete 7 Brew Coffee menu resource — drinks, prices, secret menu &amp; calorie calculator | www.sevenbrewmenucoffee.com
-
 # ☕ 7 Brew Coffee Menu Guide 2026
 
 > The most complete fan-run resource for everything 7 Brew Coffee — drinks, prices, secret menu, and nutrition info.
